@@ -8,9 +8,15 @@ We are going to upload the backup file to S3 using the AWS-CLI. Once the upload 
 We are going to delete the backups older than 7 days locally using the find command.
 
 You need to have the following information for the script to work perfectly.
+
 My-SQL UserName: root
+
 My-SQL PassWord: xxxx
+
 S3 Bucket: xxx
+
 From Mail ID:
+
 To Mail ID: 
+
 Mail command need to be Installed in the Linux Machine
